@@ -145,7 +145,7 @@ sections:
     title: 'Extracurriculars:'
     actions:
       - type: Link
-        label: See all posts
+        label: 'See all '
         altText: See all posts
         url: /blog
         showIcon: false
