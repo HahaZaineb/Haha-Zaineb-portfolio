@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "I’m a Zaineb,\_Electronics communications engineering\_student and a blockchain enthusiast."
-    subtitle: I'm specialize in Embedded Systems as
+    subtitle: I specialize in Embedded Systems as part of my degree curriculum
     styles:
       self:
         height: auto
