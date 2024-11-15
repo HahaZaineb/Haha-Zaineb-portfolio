@@ -19,7 +19,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Microsoft Office
+        label: Solidity
       - type: Label
         label: Next.js
       - type: Label
