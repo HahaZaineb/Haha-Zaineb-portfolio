@@ -59,8 +59,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      View Resume
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
