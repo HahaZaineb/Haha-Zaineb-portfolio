@@ -15,9 +15,11 @@ sections:
       Hello,I’m a Zaineb,an Electronics communications engineering student and a
       blockchain enthusiast.
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I specialize in Embedded Systems as part of my engineering degree, but
+      along the way, I've developed a strong expertise in blockchain technology.
+      My passion lies in creating decentralized applications and advancing the
+      potential of Web3.0. Currently, I’m working on a project focused on NFTs
+      and cross-chain compatibility to connect various blockchain ecosystems.
     actions:
       - type: Button
         label: Hire me
