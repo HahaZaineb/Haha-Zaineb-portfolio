@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Capture.PNG
   altText: Project image
 ---
 <div style="text-align: center">With the increasing importance of high-quality data, ensuring data provenance, quality, and governance has
