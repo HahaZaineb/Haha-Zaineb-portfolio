@@ -25,7 +25,7 @@ sections:
         label: Resume
         altText: ''
         url: >-
-          /https://drive.google.com/file/d/1iStnJnkJuKkERHG5VIwQMOItBlRmMetW/view?usp=sharing
+          https://drive.google.com/file/d/1iStnJnkJuKkERHG5VIwQMOItBlRmMetW/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
