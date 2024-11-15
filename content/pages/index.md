@@ -135,6 +135,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Certificates
   - type: FeaturedPostsSection
     title: 'Extracurriculars:'
     actions: []
