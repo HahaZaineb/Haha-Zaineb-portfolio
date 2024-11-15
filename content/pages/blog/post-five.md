@@ -3,7 +3,7 @@ type: PostLayout
 title: iCOMM & Education Manager
 colors: colors-a
 date: '2024-02-08'
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
