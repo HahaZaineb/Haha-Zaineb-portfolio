@@ -2,9 +2,7 @@
 type: PostLayout
 title: Hashgraph Developer Course
 date: '2024-04-19'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/436748631_970455107809978_6607912962006524254_n.png
