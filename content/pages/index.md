@@ -99,7 +99,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Certificates
+    subtitle: ''
     showFeaturedImage: false
     actions: []
     posts:
@@ -135,6 +135,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Certificates
   - type: FeaturedPostsSection
     title: 'Extracurriculars:'
     actions: []
