@@ -21,7 +21,7 @@ sections:
       - type: Label
         label: Solidity
       - type: Label
-        label: Next.js
+        label: JavaScript
       - type: Label
         label: Netlify
       - type: Label
