@@ -19,9 +19,9 @@ media:
 bottomSections:
   - type: CtaSection
     title: Learn More
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      This is the Report we wrote on the project, you can read it for more
+      details about the project and the credits to everyone involved.
     actions:
       - type: Button
         label: Try it now
