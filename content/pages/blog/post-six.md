@@ -2,7 +2,7 @@
 type: PostLayout
 title: Blockchain Scalability and its Foundations in Distributed Systems
 colors: colors-a
-date: '2024-06-03'
+date: '2023-10-03'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
