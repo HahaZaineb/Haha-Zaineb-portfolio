@@ -158,7 +158,7 @@ sections:
       - content/pages/blog/3.md
       - content/pages/blog/4.md
     colors: colors-f
-    variant: variant-c
+    variant: variant-a
     elementId: ''
     showDate: true
     showAuthor: false
