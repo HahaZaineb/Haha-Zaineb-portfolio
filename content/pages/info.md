@@ -27,7 +27,7 @@ sections:
       - type: Label
         label: Adobe Photoshop
       - type: Label
-        label: C++
+        label: VHDL
       - type: Label
         label: Swift
   - type: DividerSection
