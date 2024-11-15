@@ -6,7 +6,8 @@ date: '2024-07-16'
 client: Awesome client
 description: >-
   As part of the "Deep Dive into Blockchain" Summer school program. I
-  collaborated with
+  collaborated with four students to work on this project that won 1st place as
+  part of our final assessment. 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
