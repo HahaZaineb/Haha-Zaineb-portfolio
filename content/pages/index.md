@@ -142,7 +142,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: 'Extracurriculars:'
     actions:
       - type: Link
         label: See all posts
