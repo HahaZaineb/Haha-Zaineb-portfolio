@@ -156,6 +156,7 @@ sections:
       - content/pages/blog/post-five.md
       - content/pages/blog/2.md
       - content/pages/blog/3.md
+      - content/pages/blog/4.md
     colors: colors-f
     variant: variant-b
     elementId: ''
