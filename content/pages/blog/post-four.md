@@ -3,7 +3,7 @@ type: PostLayout
 title: Blockchain Basics
 colors: colors-a
 date: '2023-10-02'
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
