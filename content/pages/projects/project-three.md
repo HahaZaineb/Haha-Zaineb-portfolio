@@ -26,7 +26,8 @@ bottomSections:
       - type: Button
         label: Report
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/1UnLStOQ-Wz4B-UllpR8ZE-DVZBAeAXiH/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
