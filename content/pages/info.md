@@ -25,7 +25,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Pancakes
+        label: Adobe Photoshop
       - type: Label
         label: C++
       - type: Label
