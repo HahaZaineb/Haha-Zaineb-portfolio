@@ -10,56 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: WEB 3.0
-      - type: Label
-        label: HTML
-      - type: Label
-        label: Solidity
-      - type: Label
-        label: JavaScript
-      - type: Label
-        label: CSS
-      - type: Label
-        label: Adobe Photoshop
-      - type: Label
-        label: VHDL
-      - type: Label
-        label: Python
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [hahazaineb21@gmail.com](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -137,4 +87,36 @@ sections:
       subtitle:
         textAlign: left
     title: Education
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Skills:'
+    items:
+      - type: Label
+        label: WEB 3.0
+      - type: Label
+        label: HTML
+      - type: Label
+        label: Solidity
+      - type: Label
+        label: JavaScript
+      - type: Label
+        label: CSS
+      - type: Label
+        label: Adobe Photoshop
+      - type: Label
+        label: VHDL
+      - type: Label
+        label: Python
 ---
