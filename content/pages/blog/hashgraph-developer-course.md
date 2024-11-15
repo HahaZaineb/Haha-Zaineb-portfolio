@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/qfsdf.PNG
-  altText: Post image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
