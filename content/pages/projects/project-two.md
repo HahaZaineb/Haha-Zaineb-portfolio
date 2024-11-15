@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Mint NFT for your Data
 colors: colors-a
 date: '2024-11-15'
-client: Awesome client
+client: ''
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
