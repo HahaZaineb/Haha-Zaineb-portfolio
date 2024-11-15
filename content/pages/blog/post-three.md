@@ -7,7 +7,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/html.PNG
-  altText: Post thumbnail image
+  altText: ''
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
