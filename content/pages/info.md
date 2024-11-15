@@ -136,4 +136,5 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: Education
 ---
