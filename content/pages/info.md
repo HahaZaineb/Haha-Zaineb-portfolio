@@ -23,7 +23,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Netlify
+        label: CSS
       - type: Label
         label: Pancakes
       - type: Label
