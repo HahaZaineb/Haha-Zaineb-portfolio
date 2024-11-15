@@ -2,7 +2,7 @@
 type: PostLayout
 title: Blockchain Basics
 colors: colors-a
-date: '2023-10-01'
+date: '2023-10-02'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
