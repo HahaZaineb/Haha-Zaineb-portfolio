@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       I specialize in Embedded Systems as part of my degree's curriculum but
       while pursuing this degree, I've built a strong background in Blockchain.
-      My passion lies in building decentralized applications
+      My passion lies in building decentralized applications and empowering
     styles:
       self:
         height: auto
