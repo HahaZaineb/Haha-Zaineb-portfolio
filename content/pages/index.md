@@ -137,15 +137,7 @@ sections:
         justifyContent: flex-end
   - type: FeaturedPostsSection
     title: 'Extracurriculars:'
-    actions:
-      - type: Link
-        label: See more
-        altText: See all posts
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     posts:
       - content/pages/blog/post-five.md
       - content/pages/blog/2.md
