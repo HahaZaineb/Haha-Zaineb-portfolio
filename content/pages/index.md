@@ -99,7 +99,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Certificates
+    subtitle: ''
     showFeaturedImage: false
     actions: []
     posts:
