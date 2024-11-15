@@ -10,43 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: "Hello,I’m a Zaineb,an Electronics communications engineering\_student and a blockchain enthusiast."
-    subtitle: >-
-      I specialize in Embedded Systems as part of my engineering degree, but
-      along the way, I've developed a strong expertise in blockchain technology.
-      My passion lies in creating decentralized applications and advancing the
-      potential of Web3.0. Currently, I’m working on a project focused on NFTs
-      and cross-chain compatibility to connect various blockchain ecosystems.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
@@ -94,6 +57,43 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: "Hello,I’m a Zaineb,an Electronics communications engineering\_student and a blockchain enthusiast."
+    subtitle: >-
+      I specialize in Embedded Systems as part of my engineering degree, but
+      along the way, I've developed a strong expertise in blockchain technology.
+      My passion lies in creating decentralized applications and advancing the
+      potential of Web3.0. Currently, I’m working on a project focused on NFTs
+      and cross-chain compatibility to connect various blockchain ecosystems.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
