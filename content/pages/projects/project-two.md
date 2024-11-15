@@ -9,7 +9,7 @@ description: >-
   unique NFTs on the blockchain, ensuring permanent and verifiable data storage.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/NFT Logger.PNG
   altText: Project thumbnail image
 media:
   type: ImageBlock
