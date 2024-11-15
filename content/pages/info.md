@@ -29,7 +29,7 @@ sections:
       - type: Label
         label: VHDL
       - type: Label
-        label: Swift
+        label: ''
   - type: DividerSection
     styles:
       self:
