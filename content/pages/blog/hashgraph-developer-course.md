@@ -25,3 +25,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+I attended a Hedera Developer course bootcamp hosted by Lightency at our school, and then took the test. This certificate provided me with the opportunity to attend the "Deep Dive into Blockchain" summer school program at the University of Zurich which was a lifetime experience that broadned my horizons and gave me an inside look at the Blockchain world.
+
+(P.S: the date on the certificate is wrong because of some issues whichh couldn't be resolved for some reason.)
+
+[Certificate](https://drive.google.com/file/d/1dd1TKIHkfV2JTbs4t79B6-VVJJEHPHK4/view?usp=sharing)
