@@ -22,7 +22,7 @@ sections:
       and cross-chain compatibility to connect various blockchain ecosystems.
     actions:
       - type: Button
-        label: Hire me
+        label: Resume
         altText: ''
         url: /
         showIcon: true
