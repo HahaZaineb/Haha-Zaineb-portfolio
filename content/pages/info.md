@@ -29,7 +29,7 @@ sections:
       - type: Label
         label: VHDL
       - type: Label
-        label: ''
+        label: Python
   - type: DividerSection
     styles:
       self:
