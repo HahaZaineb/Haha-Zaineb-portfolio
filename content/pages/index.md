@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Zaineb, an Embedded systems engineering student and a blockchain
-      enthusiast.
+    title: "I’m a Zaineb,\_Electronics communications engineering\_student and a blockchain enthusiast."
     subtitle: "I'm an\_ student"
     styles:
       self:
