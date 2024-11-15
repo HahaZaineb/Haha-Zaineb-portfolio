@@ -3,7 +3,7 @@ type: PostLayout
 title: 'Programming Foundations with JavaScript, HTML and CSS'
 colors: colors-b
 date: '2023-10-06'
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
