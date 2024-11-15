@@ -3,7 +3,7 @@ type: PostLayout
 title: Blockchain Scalability and its Foundations in Distributed Systems
 colors: colors-a
 date: '2023-10-14'
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
