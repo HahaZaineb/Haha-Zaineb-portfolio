@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "I’m a Zaineb,\_Electronics communications engineering\_student and a blockchain enthusiast."
-    subtitle: "I'm an\_ student"
+    subtitle: I'm specialize in Embedded Systems as
     styles:
       self:
         height: auto
