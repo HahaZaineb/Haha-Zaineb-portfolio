@@ -101,10 +101,7 @@ sections:
     variant: variant-d
     subtitle: Certificates
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all Certificates
-        url: /blog
+    actions: []
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
