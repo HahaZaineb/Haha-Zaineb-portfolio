@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a Zaineb, Embedded systems engineering student and a blockchain
+      I’m a Zaineb, an Embedded systems engineering student and a blockchain
       enthusiast.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
