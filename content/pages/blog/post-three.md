@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'Programming Foundations with JavaScript, HTML and CSS'
-colors: colors-b
+colors: colors-d
 date: '2023-10-06'
 excerpt: ''
 featuredImage:
