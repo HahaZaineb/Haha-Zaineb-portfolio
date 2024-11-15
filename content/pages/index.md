@@ -10,25 +10,40 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - type: HeroSection
+    title: >-
+      Hello,I’m a Zaineb,an Electronics communications engineering student and a
+      blockchain enthusiast.
+    subtitle: >-
+      I specialize in Embedded Systems as part of my engineering degree, but
+      along the way, I've developed a strong expertise in blockchain technology.
+      My passion lies in creating decentralized applications and advancing the
+      potential of Web3.0. Currently, I’m working on a project focused on NFTs
+      and cross-chain compatibility to connect various blockchain ecosystems.
+    actions:
+      - type: Button
+        label: Resume
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1iStnJnkJuKkERHG5VIwQMOItBlRmMetW/view?usp=sharing
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2024-08-30 at 1.46.14 PM.jpeg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-36
           - pb-48
@@ -45,24 +60,19 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-    actions: []
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-b
+    variant: variant-a
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -84,21 +94,19 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Certificates
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
+    actions: []
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/hashgraph-developer-course.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -127,70 +135,36 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: ContactSection
+  - type: FeaturedPostsSection
+    title: 'Extracurriculars:'
+    actions: []
+    posts:
+      - content/pages/blog/post-five.md
+      - content/pages/blog/2.md
+      - content/pages/blog/3.md
+      - content/pages/blog/4.md
     colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
+    variant: variant-a
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showFeaturedImage: false
+    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
           - pt-24
           - pb-24
-          - pr-4
           - pl-4
-        alignItems: center
+          - pr-4
         justifyContent: center
-        flexDirection: row
       title:
         textAlign: left
-      text:
+      subtitle:
         textAlign: left
+      actions:
+        justifyContent: center
 ---
