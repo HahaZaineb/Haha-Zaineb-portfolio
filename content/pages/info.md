@@ -17,7 +17,7 @@ sections:
       - type: Label
         label: WEB 3.0
       - type: Label
-        label: React
+        label: HTML
       - type: Label
         label: Microsoft Office
       - type: Label
