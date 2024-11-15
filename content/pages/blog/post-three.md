@@ -3,7 +3,6 @@ type: PostLayout
 title: 'Programming Foundations with JavaScript, HTML and CSS'
 colors: colors-b
 date: '2023-10-06'
-author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
