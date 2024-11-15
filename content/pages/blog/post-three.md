@@ -8,13 +8,6 @@ featuredImage:
   type: ImageBlock
   url: /images/html.PNG
   altText: ''
-backgroundImage:
-  type: BackgroundImage
-  url: /images/gallery-2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 10
 bottomSections:
   - type: ContactSection
     backgroundSize: full
