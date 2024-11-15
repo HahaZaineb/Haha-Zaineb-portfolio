@@ -64,7 +64,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ''
         text: >+
           **July 2024** 
 
