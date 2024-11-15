@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: "I’m a Zaineb,\_Electronics communications engineering\_student and a blockchain enthusiast."
     subtitle: >-
-      I specialize in Embedded Systems as part of my degree curriculum but while
-      pursuing my degree, I've built a strong background in Blockchain. My
-      passion lies in building decentralized applications
+      I specialize in Embedded Systems as part of my degree's curriculum but
+      while pursuing this degree, I've built a strong background in Blockchain.
+      My passion lies in building decentralized applications
     styles:
       self:
         height: auto
