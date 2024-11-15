@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Data Marketplace
+title: Data Marketplace On Blockchain
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
