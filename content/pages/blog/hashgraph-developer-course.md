@@ -13,7 +13,7 @@ media:
   type: ImageBlock
   url: /images/qfsdf.PNG
   altText: ''
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
