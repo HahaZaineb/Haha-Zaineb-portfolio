@@ -24,7 +24,7 @@ bottomSections:
       details about the project and the credits to everyone involved.
     actions:
       - type: Button
-        label: Try it now
+        label: Report
         altText: ''
         url: /
         showIcon: true
