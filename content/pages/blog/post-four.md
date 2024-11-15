@@ -7,7 +7,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/certif.PNG
-  altText: Post thumbnail image
+  altText: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
