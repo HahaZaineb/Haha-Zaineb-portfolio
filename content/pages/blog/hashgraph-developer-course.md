@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/436748631_970455107809978_6607912962006524254_n.png
   altText: ''
-  caption: Caption of the image
+  caption: Results of the Assessment
   elementId: ''
 media:
   type: ImageBlock
