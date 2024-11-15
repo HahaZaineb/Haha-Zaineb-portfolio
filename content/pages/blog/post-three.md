@@ -6,7 +6,7 @@ date: '2023-10-06'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/html.PNG
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
