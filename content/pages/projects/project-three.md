@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Data Marketplace On Blockchain
 colors: colors-a
 date: '2024-07-16'
-client: Awesome client
+client: ''
 description: >-
   As part of the "Deep Dive into Blockchain" Summer school program. I
   collaborated with four students to work on this project that won 1st place as
