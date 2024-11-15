@@ -55,6 +55,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/HahaZaineb",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/hahazaineb/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
