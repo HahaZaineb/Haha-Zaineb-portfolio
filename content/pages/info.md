@@ -65,18 +65,43 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **July 2024** 
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Deep Dive into Blockchain Summer School at the University of
+          Zurich
 
-          * react certificate somewhere
 
-          **2011**
+          [Certificate](https://drive.google.com/file/d/1rbF_ieulEgFNrFWYFZxBOu7zSDW4aUMI/view?usp=sharing)
+          - [Transcript of
+          Records](https://drive.google.com/file/d/1Mo7kIvTeRUCLZti8fjdOV3VqyZi285VS/view?usp=sharing)
 
-          * my highschool
+
+          **2022-2025**
+
+
+          *   At the National school of Electronics and Telecommunications of
+          Sfax.
+
+          *   Equivalent to a master’s level where we studied advanced
+          coursework in Telecommunications, Networking, Signal
+               Processing, and Embedded Systems. ([French Curriculum](https://drive.google.com/file/d/1z_ZNKCpmfk74t3Jpm9gz9z_ybfqDD5TC/view?usp=sharing))
+
+          **2020-2022**
+
+
+          *   At the Preparatory Institute for Engineering Studies Technology
+          Department.
+
+          *   Intense coursework in Mathematics, Physics, Chemistry, Quantum
+          Physics, Python, Database Management with SQL, Mechanics.... ([for
+          more
+          information](https://ipein.rnu.tn/fra/s1324/pages/5/Cycle-Pr%C3%A9paratoire-Programmes))
+
+          *   Ranked 386 out of 800 candidates in the national engineering
+          contest for the technology branch.
+
         styles:
           self:
             textAlign: left
