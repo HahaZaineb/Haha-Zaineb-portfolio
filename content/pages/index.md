@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      Hello,I’m a Zaineb,an Electronics communications engineering student and a
+      Hello,I’m Zaineb,an Electronics communications engineering student and a
       blockchain enthusiast.
     subtitle: >-
       I specialize in Embedded Systems as part of my engineering degree, but
@@ -33,7 +33,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image 2024-08-30 at 1.46.14 PM.jpeg
+      url: /images/1671637968415-removebg-preview.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
