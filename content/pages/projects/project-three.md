@@ -31,5 +31,5 @@ Users of our platform can trade data with confidence, knowing that the data they
 quality. This marketplace not only enhances trust between buyers and sellers but also promotes a more efficient
 and reliable data economy. The Cardano blockchain's inherent security and transparency make it an ideal
 foundation for this innovative data marketplace, positioning it as a leading solution in the field of data exchange
-for AI applications.</div>
+for AI applications.This is the ****[**Report**](https://drive.google.com/file/d/1UnLStOQ-Wz4B-UllpR8ZE-DVZBAeAXiH/view?usp=sharing) ****we wrote on the project, you can read it for more details about the project and the credits to everyone involved.</div>
 
