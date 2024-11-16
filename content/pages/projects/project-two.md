@@ -36,9 +36,7 @@ media:
 
 Built with Web3 technology on the Ethereum network, combines the permanence of blockchain with the flexibility of NFTs to create a robust, future-proof logging system.
 
-\*\*\*Future implementation: \*\*\*
+**Future implementation:**
 Cross-Chain Transfer: As the project evolves, the ability to transfer NFTs between different blockchains might be added. Users could access functionality that allows them to "bridge" NFTs to other networks, expanding the use case.
-
-
 
 [Github Repository](https://github.com/HahaZaineb/NFT-Logger/tree/main)
