@@ -18,8 +18,8 @@ media:
 ---
 **NFT Logger** is an innovative blockchain-based logging system that transforms traditional data records into Non-Fungible Tokens (NFTs). Each log entry is permanently stored on the Ethereum blockchain as a unique NFT, complete with timestamp verification and detailed metadata.
 
-**Key Features:
-**• Secure Data Logging: Convert any data entry into a permanent NFT record
+\*\*Key Features:
+\*\*• Secure Data Logging: Convert any data entry into a permanent NFT record
 • Timestamp Verification: Each entry is chronologically recorded with precise timestamps
 • Easy Search & Retrieval: Search your logs by ID, description, or timestamp
 • Blockchain Security: Leverage Ethereum's security for tamper-proof record-keeping
@@ -36,5 +36,9 @@ media:
 
 Built with Web3 technology on the Ethereum network, combines the permanence of blockchain with the flexibility of NFTs to create a robust, future-proof logging system.
 
-***Future implementation: ***
+\*\*\*Future implementation: \*\*\*
 Cross-Chain Transfer: As the project evolves, the ability to transfer NFTs between different blockchains might be added. Users could access functionality that allows them to "bridge" NFTs to other networks, expanding the use case.
+
+
+
+[Github Repository](https://github.com/HahaZaineb/NFT-Logger/tree/main)
