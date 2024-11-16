@@ -33,7 +33,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image 2024-08-30 at 1.46.14 PM.jpeg
+      url: /images/1671637968415-removebg-preview.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
