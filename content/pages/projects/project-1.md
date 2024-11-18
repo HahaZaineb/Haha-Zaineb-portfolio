@@ -4,8 +4,9 @@ title: Data Marketplace On Blockchain
 date: '2024-07-16'
 client: ''
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  As part of the "Deep Dive into Blockchain" Summer school program. I
+  collaborated with four students to work on this project that won 1st place as
+  part of our final assessment.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
