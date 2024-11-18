@@ -61,6 +61,35 @@ sections:
       actions:
         justifyContent: flex-start
     text: ''
+  - type: FeaturedProjectsSection
+    subtitle: ''
+    actions: []
+    projects:
+      - content/pages/projects/project-two.md
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: 'Projects:'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -134,33 +163,4 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-  - type: FeaturedProjectsSection
-    subtitle: ''
-    actions: []
-    projects:
-      - content/pages/projects/project-two.md
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: 'Projects:'
 ---
