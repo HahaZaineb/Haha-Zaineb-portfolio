@@ -4,8 +4,8 @@ title: NFT-Logger
 date: '2024-11-15'
 client: ''
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A decentralized data logging system that converts timestamped records into
+  unique NFTs on the blockchain, ensuring permanent and verifiable data storage.
 featuredImage:
   type: ImageBlock
   url: /images/NFT Logger.PNG
