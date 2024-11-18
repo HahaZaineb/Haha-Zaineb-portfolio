@@ -64,7 +64,8 @@ sections:
   - type: FeaturedProjectsSection
     subtitle: ''
     actions: []
-    projects: []
+    projects:
+      - content/pages/projects/project-1.md
     colors: colors-f
     variant: variant-a
     elementId: ''
