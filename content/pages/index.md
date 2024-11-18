@@ -71,8 +71,8 @@ sections:
     showReadMoreLink: true
     variant: variant-a
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
+      - content/pages/projects/project-1.md
+      - content/pages/projects/project-2.md
     styles:
       self:
         height: auto
@@ -94,7 +94,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ''
+    title: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
