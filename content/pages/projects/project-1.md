@@ -17,7 +17,7 @@ media:
   type: ImageBlock
   url: /images/Capture.PNG
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
