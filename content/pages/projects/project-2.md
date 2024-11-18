@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: NFT-Logger
 date: '2024-11-15'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
