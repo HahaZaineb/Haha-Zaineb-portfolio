@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: NFT Logger
 date: '2024-11-13'
 client: Awesome client
 description: >-
