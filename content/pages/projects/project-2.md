@@ -3,9 +3,7 @@ type: ProjectLayout
 title: NFT Logger
 date: '2024-11-13'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/NFT Logger.PNG
