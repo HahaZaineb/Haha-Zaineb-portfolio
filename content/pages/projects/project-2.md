@@ -3,7 +3,9 @@ type: ProjectLayout
 title: NFT-Logger
 date: '2024-11-13'
 client: ''
-description: ''
+description: >-
+  A decentralized data logging system that converts timestamped records into
+  unique NFTs on the blockchain, ensuring permanent and verifiable data storage.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
