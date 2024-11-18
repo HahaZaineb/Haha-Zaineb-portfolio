@@ -135,7 +135,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions: []
     projects:
       - content/pages/projects/project-two.md
