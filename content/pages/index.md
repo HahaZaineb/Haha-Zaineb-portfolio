@@ -72,6 +72,7 @@ sections:
     variant: variant-a
     projects:
       - content/pages/projects/project-1.md
+      - content/pages/projects/project-2.md
     styles:
       self:
         height: auto
