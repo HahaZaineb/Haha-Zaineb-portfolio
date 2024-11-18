@@ -8,7 +8,7 @@ description: >-
   unique NFTs on the blockchain, ensuring permanent and verifiable data storage.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/NFT Logger.PNG
   altText: Project thumbnail image
   caption: ''
   elementId: ''
