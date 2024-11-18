@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Data Marketplace On Blockchain
 date: '2024-07-16'
 client: Awesome client
 description: >-
