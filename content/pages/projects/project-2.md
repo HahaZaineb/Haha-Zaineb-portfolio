@@ -3,7 +3,13 @@ type: ProjectLayout
 title: NFT Logger
 date: '2024-11-13'
 client: ''
-description: ''
+description: >-
+  Full-stack Web3 application that mints NFTs representing timestamped data
+  entries on the Ethereum Sepolia network. Built using Flask, JavaScript, and
+  Web3.py, with MetaMask integration for wallet connectivity and Pinata IPFS for
+  decentralized metadata storage. Features include secure authentication,
+  real-time transaction monitoring, and a responsive interface for NFT
+  management and viewing
 featuredImage:
   type: ImageBlock
   url: /images/NFT Logger.PNG
