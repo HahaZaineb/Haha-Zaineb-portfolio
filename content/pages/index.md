@@ -71,7 +71,6 @@ sections:
     showReadMoreLink: true
     variant: variant-a
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
     styles:
       self:
