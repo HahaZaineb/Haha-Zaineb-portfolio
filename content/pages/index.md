@@ -70,8 +70,7 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-a
-    projects:
-      - content/pages/projects/project-three.md
+    projects: []
     styles:
       self:
         height: auto
