@@ -61,27 +61,23 @@ sections:
       actions:
         justifyContent: flex-start
     text: ''
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+  - type: FeaturedProjectsSection
+    subtitle: ''
     actions: []
+    projects:
+      - content/pages/projects/project-1.md
+      - content/pages/projects/project-2.md
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
-    variant: variant-a
-    projects:
-      - content/pages/projects/project-1.md
-      - content/pages/projects/project-2.md
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -93,9 +89,8 @@ sections:
       subtitle:
         textAlign: left
       actions:
-        justifyContent: flex-end
-    subtitle: ''
-    title: Projects
+        justifyContent: center
+    title: 'Projects:'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
