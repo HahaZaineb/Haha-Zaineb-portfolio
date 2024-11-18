@@ -66,6 +66,7 @@ sections:
     actions: []
     projects:
       - content/pages/projects/project-1.md
+      - content/pages/projects/project-2.md
     colors: colors-f
     variant: variant-a
     elementId: ''
