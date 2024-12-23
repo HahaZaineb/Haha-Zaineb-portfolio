@@ -50,7 +50,7 @@ backgroundImage:
 
 **Perfect for:**
 
-*    Business record-keeping
+*   Business record-keeping
 
 *   Research data logging
 
@@ -66,3 +66,6 @@ backgroundImage:
 Cross-Chain Transfer: As the project evolves, the ability to transfer NFTs between different blockchains might be added. Users could access functionality that allows them to "bridge" NFTs to other networks, expanding the use case.
 
 [Github Repository](https://github.com/HahaZaineb/NFT-Logger)
+
+[GitHub Gist](https://gist.github.com/HahaZaineb/e91d3b27f76e2de419d5057d1b40fb1c)
+
