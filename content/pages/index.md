@@ -18,9 +18,9 @@ sections:
       I specialize in Embedded Systems as part of my engineering degree, but
       along the way, I've developed a strong expertise in blockchain technology.
       My passion lies in creating decentralized applications and advancing the
-      potential of Web3.0. Currently, I am working on decentralized crowdfunding
-      platform on the Massa Blockchain which you can check out in the projects
-      section!
+      potential of Web3.0. Currently, I am working on a decentralized
+      crowdfunding platform on the Massa Blockchain, which you can check out in
+      the projects section!
     actions:
       - type: Button
         label: Resume
