@@ -12,14 +12,15 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      Hello,I’m Zaineb,an Electronics communications engineering student and a
+      Hello There! I’m Zaineb, an Electronics communications engineer and a
       blockchain enthusiast.
     subtitle: >-
       I specialize in Embedded Systems as part of my engineering degree, but
       along the way, I've developed a strong expertise in blockchain technology.
       My passion lies in creating decentralized applications and advancing the
-      potential of Web3.0. Currently, I’m working on a project focused on NFTs
-      and cross-chain compatibility to connect various blockchain ecosystems.
+      potential of Web3.0. Currently, I am working on a decentralized
+      crowdfunding platform on the Massa Blockchain, which you can check out in
+      the projects section!
     actions:
       - type: Button
         label: Resume
@@ -67,6 +68,7 @@ sections:
     projects:
       - content/pages/projects/project-1.md
       - content/pages/projects/project-2.md
+      - content/pages/projects/3.md
     colors: colors-f
     variant: variant-a
     elementId: ''
