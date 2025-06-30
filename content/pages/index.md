@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: >-
-      Hello,I’m Zaineb,an Electronics communications engineering student and a
+      Hello There! I’m Zaineb, an Electronics communications engineer and a
       blockchain enthusiast.
     subtitle: >-
       I specialize in Embedded Systems as part of my engineering degree, but
