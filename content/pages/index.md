@@ -18,7 +18,7 @@ sections:
       I specialize in Embedded Systems as part of my engineering degree, but
       along the way, I've developed a strong expertise in blockchain technology.
       My passion lies in creating decentralized applications and advancing the
-      potential of Web3.0. Currently, I’m working on a project focused on NFTs
+      potential of Web3.0. Currently, I’m worked on a project focused on NFTs
       and cross-chain compatibility to connect various blockchain ecosystems.
     actions:
       - type: Button
